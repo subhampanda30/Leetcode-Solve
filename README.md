@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/subhampanda30/Leetcode-Solve/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0610-triangle-judgement) |
 | [1182-game-play-analysis-iv](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1182-game-play-analysis-iv) |
