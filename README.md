@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/subhampanda30/Leetcode-Solve/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0610-triangle-judgement) |
+| [1179-game-play-analysis-i](https://github.com/subhampanda30/Leetcode-Solve/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1292-immediate-food-delivery-ii) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1462-list-the-products-ordered-in-a-period) |
