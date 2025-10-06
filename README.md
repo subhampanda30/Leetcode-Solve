@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/subhampanda30/Leetcode-Solve/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/subhampanda30/Leetcode-Solve/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0610-triangle-judgement) |
+| [0627-swap-salary](https://github.com/subhampanda30/Leetcode-Solve/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/subhampanda30/Leetcode-Solve/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1292-immediate-food-delivery-ii) |
